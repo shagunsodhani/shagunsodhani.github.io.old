@@ -4,7 +4,7 @@ header-img: img/home-bg.jpg
 author: Shagun Sodhani
 email: sshagunsodhani@gmail.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
+baseurl: ""
 url: "http://shagunsodhani.in"
 comment: true
 twitter_username: shagunsodhani
